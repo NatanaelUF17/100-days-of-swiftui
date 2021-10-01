@@ -1,4 +1,5 @@
 # 100 days of learning Swift + SwifUI
 
-## day 1: variables, constants, strings, and numbers
-## day 2: arrays, dictionaries, sets, and enums
+1. day 1: variables, constants, strings, and numbers [x]
+2. day 2: arrays, dictionaries, sets, and enums [x]
+3. day 3: operators and conditions 
