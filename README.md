@@ -11,5 +11,5 @@
 * [day-8](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-8/): structs, properties, and methods ✅
 * [day-9](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-9/): access control, static properties, and laziness ✅
 * [day-10](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-10/): classes and inheritance ✅
-* [day-11](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-11/): protocols, extensions, and protocol extensions ⏳
+* [day-11](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-11/): protocols, extensions, and protocol extensions ✅
 * [day-12](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-12/): optionals, unwrapping, and typecasting ⏳
