@@ -1,9 +1,6 @@
 # 100 days of learning Swift + SwifUI
 
-## Index
-<br />
-
-### Days 1-12: Introduction to Swift
+## Days 1-12: Introduction to Swift
 * [day-1](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-1): variables, constants, strings, and numbers ✅
 * [day-2](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-2/): arrays, dictionaries, sets, and enums ✅
 * [day-3](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-3/): operators and conditions ✅
@@ -19,7 +16,7 @@
 
 <br />
 
-### Days 13-15: Consolidation I
+## Days 13-15: Consolidation I
 * [day-13](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-13): Swift review, day one ⏳
 * [day-14](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-14): Swift review, day two ⏳
 * [day-15](https://github.com/NatanaelUF17/100-days-of-swiftui/tree/master/day-15): Swift review, day three ⏳
